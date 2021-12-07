@@ -1,0 +1,17 @@
+{
+  "name": "rdandx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sujay Jami",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mongoose": "^6.0.12",
+    "nodemon": "^2.0.15",
+    "puppeteer": "^12.0.1"
+  }
+}
